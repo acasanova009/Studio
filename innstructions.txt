@@ -1,0 +1,11 @@
+Python execution
+	python3 myPython.py
+Java
+	javac MyJava.java
+	java MyJava
+C
+	make Cfile
+	./Cfile
+
+Lynda
+	
